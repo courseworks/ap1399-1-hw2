@@ -55,7 +55,9 @@ The **show()** must display a class just like below.
 
 
 <img src="stuff/f3.jpg"  />
+
 #  Floor
+
 To introduce the concept of each floor to C++, we have a **Floor** class. This class gets the pointer to just one of the classes and does some operations on the whole floor. Let's see the member variables.
 
 ```c++
