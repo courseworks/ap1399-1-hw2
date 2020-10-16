@@ -120,6 +120,6 @@ f4[0]->show();
 ```
 
 # main File
-You must not alter the **main.cpp** file at all. Just write all your codes in the **aphw1.cpp** and **aphw1.h**. Good luck!
+You must not alter the **main.cpp** file at all. Good luck!
 
 <img src="stuff/f2.jpg" width="400" />
